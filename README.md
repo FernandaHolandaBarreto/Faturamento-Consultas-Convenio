@@ -74,5 +74,30 @@ eficientes para a gestão hospitalar.
 ![Cardiologia Média](Consulta-Cardiologia-Media.png)
 
 
+![Consulta Especialidade](Consulta-Especialidade.png)
+
+
+![Consulta Médico Total](Consulta-Medico-Total.png)
+
+
+![Consulta Médico Total De Medicamentos](Consulta-Medico-Totalmedicamentos.png)
+
+
+![Consulta Paciente Total Médio](Consulta-Paciente-Total-Medio.png)
+
+
+![Consulta Paciente Total Diária](Consulta-Paciente-Totaldiaria.png)
+
+
+![Consulta Status Medicamentos](Consulta-Status-Medicamentos.png)
+
+
+![Consulta Tipo de Quarto Média](Consulta-Tipoquarto-Media.png)
+
+
+![Consulta UTI Média](Consulta-UTI-Media.png)
+
+
+
 
 
