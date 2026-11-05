@@ -74,7 +74,7 @@ eficientes para a gestão hospitalar.
 ![Cardiologia Média](Consulta-Cardiologia-Media.png)
 
 
-![Consulta Especialidade](Consulta-Especialidade.png)
+![Consulta Especialidade](Consulta-Convenio-Especialidade.png)
 
 
 ![Consulta Médico Total](Consulta-Medico-Total.png)
