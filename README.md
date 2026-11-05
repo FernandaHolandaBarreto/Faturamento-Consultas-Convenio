@@ -66,6 +66,13 @@ eficientes para a gestão hospitalar.
 
 
 **Consultas**
+
+
 ![Consulta Total Bradesco](Consulta-Convenio-Bradesco.png)
+
+
+![Cardiologia Média](Consulta-Cardiologia-Media.png)
+
+
 
 
