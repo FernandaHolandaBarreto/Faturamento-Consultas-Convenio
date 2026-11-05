@@ -9,6 +9,6 @@ administrativo, financeiro, clínico e farmacêutico a acompanhar os gastos, ava
 eficientes para a gestão hospitalar.
 
 **Modelagem**
-![Banco De Dados Hospital](Diagrama-Hospital-bd.png)
+![Banco De Dados Hospital](Diagrama-Hospital-db.png)
 
 
